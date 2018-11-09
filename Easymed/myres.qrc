@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/files">
+        <file>images/bigewebslogo.png</file>
+        <file>images/ewebs logo.png</file>
+        <file>images/ewebstech.png</file>
+        <file>images/no1.png</file>
+        <file>images/no2.png</file>
+        <file>images/database-icon.png</file>
+        <file>images/INSTALL ICON.png</file>
+        <file>images/PuTTY_icon_white.png</file>
+        <file>images/cool-guy.png</file>
+        <file>images/ewebspic.png</file>
+        <file>../../../../Pictures/ewebs_logo.jpg</file>
+    </qresource>
+</RCC>
